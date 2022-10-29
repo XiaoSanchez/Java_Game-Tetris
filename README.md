@@ -3,7 +3,7 @@ Implements the functioning of Tetris that performs all functions in the tasks, d
 ## Features
 
 
-![App Screenshot](https://github.com/XiaoSanchez/Java_Game-Tetris/img/ScreenShot.png)
+![App Screenshot](https://github.com/XiaoSanchez/Java_Game-Tetris/blob/main/img/ScreenShot.png)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
