@@ -7,4 +7,3 @@ Implements the functioning of Tetris that performs all functions in the tasks, d
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
